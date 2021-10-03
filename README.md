@@ -1,4 +1,4 @@
-# Project Name
+# Personal portfolio demo
 
 > One paragraph statement about the project.
 
@@ -21,7 +21,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:adejam/My-demo-portfolio-page
 
 ```
 
